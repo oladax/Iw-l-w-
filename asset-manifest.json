@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Iwelewaindt/static/css/main.5437959b.css",
+    "main.js": "/Iwelewaindt/static/js/main.2feb454f.js",
+    "static/media/tea-time-3240766_1920.jpg": "/Iwelewaindt/static/media/tea-time-3240766_1920.e982610e6b89289b761c.jpg",
+    "static/media/books-gceaaebcdd_1280.jpg": "/Iwelewaindt/static/media/books-gceaaebcdd_1280.bba66857a32205731513.jpg",
+    "static/media/CNA4-e1624224608694-removebg-preview.png": "/Iwelewaindt/static/media/CNA4-e1624224608694-removebg-preview.a7df03e3df9868a175b4.png",
+    "static/media/halloween-g922ebab09_1280.jpg": "/Iwelewaindt/static/media/halloween-g922ebab09_1280.6a14eac9e159b57ba7c1.jpg",
+    "static/media/wole_soyinka-removebg-preview.png": "/Iwelewaindt/static/media/wole_soyinka-removebg-preview.5e9db840d3e75139d445.png",
+    "static/media/halloween-72939_960_720.jpg": "/Iwelewaindt/static/media/halloween-72939_960_720.b0f334706824bbea527b.jpg",
+    "static/media/book-5211303_640.jpg": "/Iwelewaindt/static/media/book-5211303_640.5c32ba2bee9631c4fdee.jpg",
+    "static/media/books-4607704_640.jpg": "/Iwelewaindt/static/media/books-4607704_640.15592c9122bae51b7c1b.jpg",
+    "index.html": "/Iwelewaindt/index.html",
+    "main.5437959b.css.map": "/Iwelewaindt/static/css/main.5437959b.css.map",
+    "main.2feb454f.js.map": "/Iwelewaindt/static/js/main.2feb454f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5437959b.css",
+    "static/js/main.2feb454f.js"
+  ]
+}
