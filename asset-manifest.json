@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Iwelewa/static/css/main.84d0dce9.css",
-    "main.js": "/Iwelewa/static/js/main.eaabbc25.js",
+    "main.css": "/Iwelewa/static/css/main.d7cd3610.css",
+    "main.js": "/Iwelewa/static/js/main.8c582c1f.js",
     "static/media/tea-time-3240766_1920.jpg": "/Iwelewa/static/media/tea-time-3240766_1920.e982610e6b89289b761c.jpg",
     "static/media/books-gceaaebcdd_1280.jpg": "/Iwelewa/static/media/books-gceaaebcdd_1280.bba66857a32205731513.jpg",
     "static/media/CNA4-e1624224608694-removebg-preview.png": "/Iwelewa/static/media/CNA4-e1624224608694-removebg-preview.a7df03e3df9868a175b4.png",
@@ -11,11 +11,11 @@
     "static/media/book-5211303_640.jpg": "/Iwelewa/static/media/book-5211303_640.5c32ba2bee9631c4fdee.jpg",
     "static/media/books-4607704_640.jpg": "/Iwelewa/static/media/books-4607704_640.15592c9122bae51b7c1b.jpg",
     "index.html": "/Iwelewa/index.html",
-    "main.84d0dce9.css.map": "/Iwelewa/static/css/main.84d0dce9.css.map",
-    "main.eaabbc25.js.map": "/Iwelewa/static/js/main.eaabbc25.js.map"
+    "main.d7cd3610.css.map": "/Iwelewa/static/css/main.d7cd3610.css.map",
+    "main.8c582c1f.js.map": "/Iwelewa/static/js/main.8c582c1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.84d0dce9.css",
-    "static/js/main.eaabbc25.js"
+    "static/css/main.d7cd3610.css",
+    "static/js/main.8c582c1f.js"
   ]
 }
