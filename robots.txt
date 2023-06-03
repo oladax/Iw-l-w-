@@ -3,3 +3,14 @@ User-agent: *
 Disallow:
 
 AIzaSyCmSq1TVDrDfG6DrbZakTEyqyueSSvqJ1E
+
+
+url = f"https://www.googleapis.com/customsearch/v1?key={api_key}&cx={search_engine_id}&q={query}"
+GET https://www.googleapis.com/customsearch/v1?key=YOUR_API_KEY&cx=YOUR_SEARCH_ENGINE_ID&q=python+hacking&fileType=pdf
+cx=7551fe687ace94b70
+
+
+ const searchQuery = 'python hacking';
+    const fileType = 'pdf';
+    const apiKey = 'AIzaSyCmSq1TVDrDfG6DrbZakTEyqyueSSvqJ1E';
+    const searchEngineId = '7551fe687ace94b70';
